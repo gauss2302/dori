@@ -2,7 +2,7 @@
 
 ![Dori Logo](screenshots/Landing_page.png)
 
-Dori is your trusted platform for managing pharmacy operations efficiently and ensuring timely delivery of medications. Built with NextJS using TypeScript, Dori offers a seamless experience for pharmacies and customers alike.
+Dori is your trusted platform for managing pharmacy operations efficiently and ensuring timely delivery of medications. Built with NextJS using TypeScript, Dori offers a seamless experience for pharmacies and customers alike!
 
 ## Features 📦
 
@@ -34,6 +34,6 @@ Dori is licensed under the MIT License. See the [LICENSE](LICENSE) file for deta
 
 ## Get in Touch 📬
 
-Have questions, feedback, or suggestions? Reach out to us at [contact@dori.com](mailto:contact@dori.com).
+Have questions, feedback, or suggestions? Reach out to us at [gauss2302](shilov6865@gmail.com).
 
 Thank you for choosing Dori for your drug delivery needs! 💊🚚
