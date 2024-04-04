@@ -13,7 +13,7 @@ import { Button, buttonVariants } from "@/components/ui/button";
 
 const perks = [
   {
-    name: "Быстрая Доставка до двери",
+    name: "Быстрая Доставка до двери!",
     Icon: ChevronsUp,
     description:
       "Доставка до двери в течение 30 минут. Наши курьеры бережно и вовремя доставят все необходимые лекарства",
